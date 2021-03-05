@@ -1,0 +1,3 @@
+# Society if every split was as clean as this iris data set example: insert meme
+
+## Allow optional y-label list to be passed to fit for more explicit labels. Example, for iris dataset, allow flower names to be passed in that match the integer values for the integer y-labels.
